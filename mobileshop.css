@@ -1,0 +1,48 @@
+.bg {
+    background-image: url('file:///C:/Users/IC/Desktop/internship/images/background.jpg');
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+}
+
+.h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+.text {
+    text-align: center;
+    color: white;
+}
+
+.bg1 {
+    background-image: url('file:///C:/Users/IC/Desktop/internship/images/bg1.jpg');
+    height: 480px;
+    width: 100%;
+}
+
+.bgl1 {
+    background-image: url('file:///C:/Users/IC/Desktop/internship/images/bg1.jpg');
+    height: 440px;
+    width: 100%;
+}
+
+.portfolio {
+    color: orange;
+}
+
+.text2 {
+    text-align: center;
+}
+
+.h3 {
+    text-align: center;
+    color: blue;
+}
+
+.text3 {
+    color: black;
+    text-align: center;
+}
